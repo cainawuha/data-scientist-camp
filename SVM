@@ -1,6 +1,6 @@
-knnwledge point 
+knowledge point 
 well-spaced boundary
 1 SVM error = classification error + margin error
 2 margin error = 2 / |W|
-3 C * classification error + margin error  # small C will give large margin but make classification error, 
+3 C * classification error + margin error  # small C will give large margin but make more classification error  
                                              large C will make small margin but good classification
