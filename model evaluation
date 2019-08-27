@@ -1,0 +1,3 @@
+when accuracy won't work:
+credit card fraud detect: 280000 good transactions, 400 fraud transactions, a model says all transactions are good,
+                          accuracy >99%, but the model is not good one, as it is not going to cathing any bad ones
