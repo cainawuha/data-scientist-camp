@@ -1,0 +1,2 @@
+np.multiply(m, n)   # equivalent to m * n   element-wise multiplication
+a.dot(a) = np.matmul(a,a)  shapes (4,3) and (3,4) should aligned
